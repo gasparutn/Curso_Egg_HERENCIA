@@ -1,5 +1,7 @@
 package heren_ejerc04;
 
+import entidades.Rectangulo;
+import entidades.Circulo;
 import java.util.Scanner;
 
 public class Main {

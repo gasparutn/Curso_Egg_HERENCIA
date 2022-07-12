@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package heren_ejerc04;
+package entidades;
 
 import interfaces.calculosFormas;
 import java.util.Scanner;

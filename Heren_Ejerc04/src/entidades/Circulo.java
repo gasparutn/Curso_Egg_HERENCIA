@@ -1,4 +1,4 @@
-package heren_ejerc04;
+package entidades;
 
 import interfaces.calculosFormas;
 import java.util.Scanner;
