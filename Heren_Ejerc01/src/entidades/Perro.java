@@ -12,15 +12,6 @@ public class Perro extends Animal {
         super(nombre, alimento, edad, raza);
     }
 
-    
-
-    
-
-    
-
-    
-    
-    
     }
     
     

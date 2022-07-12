@@ -20,9 +20,5 @@ public class Main   {
         System.out.println(caballo.toString());
     }
 
-    @Override
-    public String toString() {
-        return "Main{" + '}';
-    }
-    
+   
 }
